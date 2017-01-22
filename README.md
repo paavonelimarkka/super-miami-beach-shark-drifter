@@ -2,7 +2,7 @@
 
 My game from Global Game Jam 2017. Use it as you please.
 
-[Clients and Wbgli here](https://paavonelimarkka.github.io/super-miami-beach-shark-drifter/)
+[Clients and Web-gl here](https://paavonelimarkka.github.io/super-miami-beach-shark-drifter/)
 
 Thanks to:
 
