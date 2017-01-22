@@ -2,6 +2,8 @@
 
 My game from Global Game Jam 2017. Use it as you please.
 
+[Clients and Wbgli here](https://paavonelimarkka.github.io/super-miami-beach-shark-drifter/)
+
 Thanks to:
 
 - [TaneliH](https://github.com/TaneliR) for the awesome 80's music loop!
