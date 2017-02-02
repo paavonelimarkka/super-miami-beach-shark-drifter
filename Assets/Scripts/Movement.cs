@@ -14,6 +14,7 @@ public class Movement : MonoBehaviour {
 
 	void Start() {
 		carRB = GetComponent<Rigidbody>();
+        SetEndScore.GameOver = false;
 	}
 
 	void Update () 
