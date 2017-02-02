@@ -13,7 +13,7 @@ public class GetPointsFromCollision : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other) {
-		if (other.tag == "Hai") {
+		if (other.tag == "Hai" && SetEndScore.GameOver == false) {
 			UpdatePoints.points += pointsToAdd;
 			argh.Play ();
 		}

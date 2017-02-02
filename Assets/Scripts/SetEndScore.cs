@@ -17,7 +17,11 @@ public class SetEndScore : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-
+        if (GameOver == false)
+        {
+            loppuSaatanaPisteet = UpdatePoints.points;
+            kala.text = loppuSaatanaPisteet.ToString();
+        }
 		if (GameOver == true) {
 			kala.text = loppuSaatanaPisteet.ToString();
 		}
